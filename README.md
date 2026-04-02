@@ -61,15 +61,15 @@ The dashboard endpoint demonstrates backend design beyond CRUD operations using 
 
 ### Register User
 
-![Register](screenshots/register.png)
+
 
 ###  Login (JWT Token)
 
-![Login](screenshots/login.png)
+
 
 ###  Dashboard API (Aggregation Output)
 
-![Dashboard](screenshots/dashboard.png)
+
 
 ---
 
